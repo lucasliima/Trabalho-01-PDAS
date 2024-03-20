@@ -1,0 +1,16 @@
+Requisitos Funcionais 
+
+- Escolha aleatória do alvo:  o jogo deve escolher um alvo de 1 a 20
+
+- Palpite do usuário: O usuário deve fornecer um palpite sobre qual é o alvo escolhido pelo computador 
+
+- Verificação de acerto: deve verificar o acerto, se acertou confirmar a vitória e se errou gerar um novo alvo somando com o anterior
+
+- Restrição do palpite: na primeira rodada deve ser um número de 1 a 20 , apresentar mensagem de erro caso seja maior ou menor, e nas outras de 1 a 100, apresentar mensagem se for maior ou menor. 
+
+- Finalizar o jogo se o alvo ultrapassar 100
+
+Requisitos Não Funcionais 
+
+- O jogo deve ser simples e claro
+- Eficiente e rápido 
